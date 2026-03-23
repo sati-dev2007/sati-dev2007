@@ -1,6 +1,5 @@
 ## Hi 👋, I'm Letícia Sati
-### I'm a programmer interested in front-end development and gamedev
+### Information Systems student at USP (University of São Paulo) interested in front-end development and gamedev.
 
-- 🌱 I’m currently learning C, JAVA and Computer Graphics
+- 🌱 I’m currently learning **C, JAVA and Computer Graphics**
 - 📫 How to reach me: leticiatonaki@gmail.com 
-- ⚡️ Fun fact: I like drawing
